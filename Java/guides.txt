@@ -1,0 +1,27 @@
+length of list --> .size() if using ArrayList
+length of list --> .length if [] = {}
+length of string --> .length()
+
+
+Integer to string:
+
+String.valueOf(1234);
+Integer.toString(1235);
+
+String to Integer
+
+Integer.parseInt("123");
+Double.parseDouble("123")
+
+float to double:
+
+(float)0.1
+
+
+"hellAo".toUpperCase();
+"hellAo".toLowerCase();
+"hellAo".contains("ll");
+List<String> names = Arrays.asList("Alice", "Bob", "Charlie");
+
+names.forEach(name -> System.out.println("Hello, " + name));
+
